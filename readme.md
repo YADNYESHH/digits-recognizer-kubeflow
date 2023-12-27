@@ -251,18 +251,6 @@ Alternatively, you can use the web application which you can find in the `web_ap
 
 **1.0** - Sample ML workflow with Kubeflow 1.5.1
 
-## Authors
-
-* **Flo Pachinger** - [flopach](https://github.com/flopach)
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
-
-## Further Links
-
-* [Cisco DevNet Website](https://developer.cisco.com)
-
 
 
 
